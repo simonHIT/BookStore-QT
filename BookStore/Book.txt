@@ -1,0 +1,11 @@
+1              good                            6    life                            green                           62        85         89.600000         
+3              Japanese                        7    mind                            Jenny                           56        58         87.900000         
+4              English                         5    PE                              Danny                           56        71         39.800000         
+6              source                          3    technology                      jenny                           78        78         68.900000         
+7              widget                          1    literature                      beidao                          79        80         56.900000         
+8              QtQuick                         11   law                             people                          88        88         67.980000         
+9              poem                            1    literature                      poet                            11        13         25.690000         
+10             economy                         2    economy                         SongMing                        69        69         29.470000         
+11             technology                      3    technology                      HuoJin                          98        98         78.930000         
+12             education                       4    education                       zhangyan                        97        99         58.940000         
+14             ????                            3    technology                      ???                             60        60         56.800000         

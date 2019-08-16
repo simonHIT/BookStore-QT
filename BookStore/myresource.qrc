@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/MyImages">
+        <file>images/book.ico</file>
+        <file>images/book2.ico</file>
+        <file>images/button.ico</file>
+        <file>images/button.jpg</file>
+        <file>images/feather.ico</file>
+        <file>images/man.ico</file>
+        <file>images/man2.ico</file>
+        <file>images/vip.ico</file>
+        <file>images/vip1.jpg</file>
+        <file>images/vip3.ico</file>
+        <file>images/login.jpg</file>
+        <file>images/login1.jpg</file>
+    </qresource>
+</RCC>
